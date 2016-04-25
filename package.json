@@ -1,0 +1,27 @@
+{
+  "name": "mirage",
+  "version": "0.0.1",
+  "description": "mock json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antalutrazvan/mirage.git"
+  },
+  "keywords": [
+    "json",
+    "mock"
+  ],
+  "author": "Antalut Razvan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antalutrazvan/mirage/issues"
+  },
+  "homepage": "https://github.com/antalutrazvan/mirage#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}
